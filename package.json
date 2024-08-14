@@ -1,0 +1,11 @@
+{
+  "name": "insicodenew",
+  "version": "1.0.0",
+  "description": "hello my name is chaitanya and i am creating node file",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chaitnaya raut",
+  "license": "ISC"
+}
